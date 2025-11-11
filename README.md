@@ -29,9 +29,6 @@ This repository focuses on the **Machine Learning** part of my Data Science cour
 ---
 
 ## 🧪 Projects
-- Iris Flower Classification 🌸  
-- Coders of Delhi (Coming Soon)  
-- RAG-Based AI Teaching Assistant (Coming Soon)
 
 ---
 
