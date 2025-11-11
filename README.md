@@ -46,4 +46,4 @@ To understand and implement the end-to-end workflow of Machine Learning — from
 **Akshit Pathak**  
 🎓 B.Tech CSE (AI Specialization) | GL Bajaj Institute of Technology & Management  
 📍 India  
-💼 [LinkedIn](#) 🧑‍💻 [Portfolio](#) ✉️ pathakakshit17@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/akshit-pathak/) ✉️ pathakakshit17@gmail.com
